@@ -36,7 +36,7 @@ This project analyzes a simulated digital marketing funnel to uncover drop-off p
 | `01 - Optimizing the Marketing Funnel - Drop-Off & Conversion Insights Requirements` | Requirement Doc |
 | `02 - Marketing_Funnel_Dataset` | dataset |
 | `03 - Python Marketing Funnel Analysis Insights.ipynb` | Complete analysis in Python |
-| `04 - Optimizing the Marketing Funnel - Drop-Off & Conversion Presentation` | Final stakeholder summary |
+| `04 - Optimizing the Marketing Funnel - Drop-Off & Conversion Presentation` | Presentation |
 
 
 ---

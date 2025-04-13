@@ -52,8 +52,8 @@ This project analyzes a simulated digital marketing funnel to uncover drop-off p
 ## 🧑‍💻 Author
 
 Ahmed Ait Si Hamou  
-Data Analyst | SQL • Python • Power BI • Tableau  
-🔗 [LinkedIn](https://www.linkedin.com/) *(add your actual link)*
+Data Analyst | Excel • SQL • Python • Power BI • Tableau  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmedaitsihamou/) 
 
 
 ## ✅ Recommendations

@@ -49,6 +49,11 @@ This project analyzes a simulated digital marketing funnel to uncover drop-off p
 - Spring Launch campaign underperformed — needs review.
 
 ---
+## 🧑‍💻 Author
+
+Ahmed Ait Si Hamou  
+Data Analyst | SQL • Python • Power BI • Tableau  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmedaitsihamou/)
 
 ## ✅ Recommendations
 
